@@ -64,6 +64,18 @@ The project emphasizes clean structure, practical database usage, logical separa
   <img src="./dashboard5.png" alt="Dashboard View 5" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./dashboard6.png" alt="Dashboard View 5" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./dashboard7.png" alt="Dashboard View 5" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./dashboard8.png" alt="Dashboard View 5" width="100%" />
+</p>
+
 ## Project Structure
 ```text
 blood-donation-management-system/
