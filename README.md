@@ -73,6 +73,10 @@ The project emphasizes clean structure, practical database usage, logical separa
 </p>
 
 <p align="center">
+  <img src="./dashboard9.png" alt="Dashboard View 5" width="100%" />
+</p>
+
+<p align="center">
   <img src="./dashboard8.png" alt="Dashboard View 5" width="100%" />
 </p>
 
