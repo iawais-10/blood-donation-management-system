@@ -67,10 +67,6 @@ The project emphasizes clean structure, practical database usage, logical separa
 </p>
 
 ## Project Structure
-
-```text
-## Project Structure
-
 ```text
 blood-donation-management-system/
 │
@@ -104,4 +100,7 @@ blood-donation-management-system/
 │
 ├── README.md
 └── .gitignore
+```
 
+# License
+- MIT License
