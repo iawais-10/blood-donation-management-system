@@ -6,9 +6,7 @@ A **Blood Donation Management System** designed to manage donors, recipients, bl
   <img src="./hero.png" alt="Blood Donation Management System Hero" width="100%" />
 </p>
 
-## Short Introduction
 
-This project provides a centralized system for managing blood donation data, including donor registration, blood group tracking, and request handling. It is built to demonstrate practical software development concepts with a real-world use case in healthcare support systems.
 
 ## Description
 
